@@ -11,5 +11,5 @@ Live demo: https://replit.com/@GraemeBalint/USStatesGuessingGame?v=1
 
 **Project goals:**
 
-1. Explore Turtle and Tkinter libraries 
+1. Explore Turtle and Tkinter libraries.
 2. Create a fun, interactive game.
